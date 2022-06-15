@@ -37,9 +37,9 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 Nitsu Botz あ⁩ 」' //Main Watermark
+global.wm = '                「 Zerotwo Botz あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Nitsu - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Zerotwo - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
 
@@ -50,7 +50,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 Nitsu Botz あ⁩ 」'
+global.author = '                「 Zerotwo Botz あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -77,7 +77,7 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 /*============== NOMOR ==============*/
 global.nomorbot = '60107155057'
 global.nomorown = '6285785694474'
-global.namebot = 'Nitsu Botz'
+global.namebot = 'Zerotwo Botz'
 global.nameown = 'Jaka-Kun'
 
 /*=========== FAKE SIZE ===========*/
